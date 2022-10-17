@@ -4,6 +4,6 @@ time: 25 minutes
 steps:
   - step1.md
 isNew: true
-isPremium: falsee
+isPremium: false
 isAvailable: fsra
 level: expert
