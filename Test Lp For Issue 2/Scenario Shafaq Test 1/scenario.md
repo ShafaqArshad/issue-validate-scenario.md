@@ -5,5 +5,5 @@ steps:
   - step1.md
 isNew: true
 isPremium: false
-isAvailable: fsra
+isAvailable: false
 level: expert
