@@ -6,4 +6,4 @@ steps:
 isNew: true
 isPremium: true
 isAvailable: true
-level: expertou
+level: expert
